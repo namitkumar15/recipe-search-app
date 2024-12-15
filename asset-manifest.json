@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/namitkumar15/recipe-search-app/static/css/main.fa385d78.css",
+    "main.js": "/namitkumar15/recipe-search-app/static/js/main.8616ef51.js",
+    "static/js/488.8bddceb4.chunk.js": "/namitkumar15/recipe-search-app/static/js/488.8bddceb4.chunk.js",
+    "index.html": "/namitkumar15/recipe-search-app/index.html",
+    "main.fa385d78.css.map": "/namitkumar15/recipe-search-app/static/css/main.fa385d78.css.map",
+    "main.8616ef51.js.map": "/namitkumar15/recipe-search-app/static/js/main.8616ef51.js.map",
+    "488.8bddceb4.chunk.js.map": "/namitkumar15/recipe-search-app/static/js/488.8bddceb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa385d78.css",
+    "static/js/main.8616ef51.js"
+  ]
+}
