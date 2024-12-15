@@ -1,5 +1,3 @@
-# Answers to Questions
-
 ## Answer 1:
 
 Hi George,
