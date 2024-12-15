@@ -4,7 +4,7 @@ This project is a Recipe Search Application that utilizes **Algolia** to allow u
 
 ## Project Overview
 
-The goal of this project was to build a recipe search application that enables users to explore various recipes by category, search by name or ingredients, and filter by different attributes like cuisine, type of dish, and more. The app also features a clean, interactive user interface where users can select categories, view recipes, and access detailed information for each recipe.
+The goal of the project was to build a recipe search application that enables users to explore various recipes by category, search by name or ingredients, and filter by different attributes like cuisine, rating, and more. The app also features a clean user interface where users can select categories, view recipes, and access detailed information for each recipe.
 
 ## Key Features
 
@@ -22,11 +22,9 @@ The project features a simple UI with checkboxes to filter recipes based on cate
 
 ## Feedback for Algolia
 
-While working with Algolia, I found the setup and configuration process to be relatively straightforward. The search engine is incredibly fast, and its integration with React was seamless. The ability to use faceting for categories and attributes made filtering and sorting the data very efficient.
+While working with Algolia, I found the setup and configuration process to be straightforward. The search engine is incredibly fast, and its integration with React was seamless. The ability to use faceting for categories and attributes made filtering and sorting the data very efficient.
 
-However, I would suggest that Algolia could improve its documentation around the initial setup for beginners. For example, it could include more detailed steps on how to configure facets and handle edge cases like multi-word category names. Some of the functionality was a bit unclear, but after some experimentation and referring to community forums, I was able to resolve these issues.
-
-Overall, I’m really happy with the experience of using Algolia, and I will continue to explore more advanced features as I expand my projects in the future.
+I found the documentation to be generally helpful, but it could benefit from more detailed guidance, especially for beginners. For example, providing additional steps on how to configure facets and handle cases like multi-word category names could be useful. Some aspects of the functionality were a bit unclear initially, but with some experimentation and support from community forums, I was able to resolve these challenges.
 
 ## How to Run the Project Locally
 
@@ -35,7 +33,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/recipe-search-app.git
+    git clone https://github.com/namitkumar15/recipe-search-app.git
     ```
 
 2. Install dependencies:
@@ -56,9 +54,8 @@ To run this project locally, follow these steps:
 
 This app has been deployed to **GitHub Pages**. You can view it at the following URL:
 
-[https://your-username.github.io/recipe-search-app](https://your-username.github.io/recipe-search-app)
+https://namitkumar15.github.io/recipe-search-app/
 
-*Replace "your-username" with your GitHub username.*
 
 ## Conclusion
 
